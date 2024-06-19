@@ -43,7 +43,8 @@ The chief mechanism to verify implementations is the Web Platform Tests suite.
 In order to be considered for integration, a new extension must have:
 
 * Reasonable test coverage
-* Two passing implementation
+* One passing implementation
+* Implementation commitment from another implementer
 
 ## Merging to the editor's copy on the REC branch
 
